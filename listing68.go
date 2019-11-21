@@ -1,4 +1,4 @@
-package main
+package gotest
 
 import (
 	"D1/ex1/counters"
